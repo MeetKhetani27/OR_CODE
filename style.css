@@ -1,0 +1,35 @@
+
+body{
+   font-family: cursive;
+   text-align: center;
+    background-color: #D5E1EF;
+}
+
+
+.card{
+    padding: 1rem;
+    padding-bottom: 1rem;
+    position:fixed;
+    inset: 0;
+    margin: auto;
+    height: 550px;
+    background-color: aliceblue;
+    width: 317px;
+   box-shadow: 0px 10px  80px 10px rgba(0, 0, 0, 0.3);
+   border-radius: 16px;
+   
+}
+img{
+   
+    border-radius: 18px;
+    width: 100%;
+
+}
+h4{
+    color:#202F4D;
+}
+
+p{
+    color: #A4A9AF;
+}
+
